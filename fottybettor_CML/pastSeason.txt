@@ -1,0 +1,20 @@
+Man United,21,6,11
+Man City,27,6,5
+Liverpool,20,9,9
+Chelsea,19,9,10
+Leicester,20,12,6
+West Ham,19,11,8
+Tottenham,18,12,8
+Arsenal,18,13,7
+Leeds,18,15,5
+Everton,17,13,8
+Aston Villa,16,15,7
+NewCastle,12,17,9
+Wolves,12,17,9
+Crystal Palace,12,18,8
+Southampton,12,19,7
+Brighton,9,15,14
+Burnley,10,19,9
+Fulham,5,20,13
+West Brom,5,22,11
+Sheffield United,7,29,2
