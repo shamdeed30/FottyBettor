@@ -2,7 +2,7 @@
 
 Team Name: FootyBettor
  
-Group Members: Zahra Cheeseman, Junhao Qu, Sham Kabir, Esa Chen 
+Group Members: MD Rahmoon Shamdeed Kabir, Zahra Cheeseman, Esa Chen 
 
 Team's mission:
 
